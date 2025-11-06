@@ -1,0 +1,17 @@
+# Dependências (isto é o mais importante!)
+node_modules/
+
+# Ficheiro de segredos - NUNCA ENVIE ISTO PARA O GITHUB
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ficheiros de IDE e Sistema
+.DS_Store
+.idea/
+.vscode/
